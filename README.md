@@ -3,7 +3,7 @@
 # :recycle: Ecoleta
 The **Ecoleta** is an application that helps people find the nearst collection points.
 
-This project was developed during the **Next Level Week 1.0** by **[Rocketseat 🚀](https://github.com/Rocketseat)**.
+This project was developed during the **Next Level Week 1.0** by **[Rocketseat :rocket:](https://github.com/Rocketseat)**.
 
 # :hammer: Dependencies
 - [react](https://reactjs.org/)
